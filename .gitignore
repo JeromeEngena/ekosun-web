@@ -1,0 +1,36 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build and dist files
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.backup
